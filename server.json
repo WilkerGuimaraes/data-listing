@@ -1,205 +1,1009 @@
 {
   "tags": [
-    { "title": "React", "amountOfVideos": 142 },
-    { "title": "Angular", "amountOfVideos": 98 },
-    { "title": "Vue.js", "amountOfVideos": 120 },
-    { "title": "Node.js", "amountOfVideos": 165 },
-    { "title": "Express.js", "amountOfVideos": 88 },
-    { "title": "Django", "amountOfVideos": 75 },
-    { "title": "Flask", "amountOfVideos": 62 },
-    { "title": "Spring Boot", "amountOfVideos": 110 },
-    { "title": "Laravel", "amountOfVideos": 130 },
-    { "title": "Ruby on Rails", "amountOfVideos": 95 },
-    { "title": "ASP.NET", "amountOfVideos": 80 },
-    { "title": "Ember.js", "amountOfVideos": 50 },
-    { "title": "Meteor.js", "amountOfVideos": 70 },
-    { "title": "Svelte", "amountOfVideos": 45 },
-    { "title": "Backbone.js", "amountOfVideos": 30 },
-    { "title": "Polymer", "amountOfVideos": 55 },
-    { "title": "Aurelia", "amountOfVideos": 35 },
-    { "title": "jQuery", "amountOfVideos": 125 },
-    { "title": "Bootstrap", "amountOfVideos": 140 },
-    { "title": "Foundation", "amountOfVideos": 75 },
-    { "title": "Materialize", "amountOfVideos": 90 },
-    { "title": "Tailwind CSS", "amountOfVideos": 105 },
-    { "title": "Bulma", "amountOfVideos": 85 },
-    { "title": "Semantic UI", "amountOfVideos": 70 },
-    { "title": "UIKit", "amountOfVideos": 60 },
-    { "title": "Ant Design", "amountOfVideos": 55 },
-    { "title": "React Native", "amountOfVideos": 120 },
-    { "title": "Flutter", "amountOfVideos": 100 },
-    { "title": "Xamarin", "amountOfVideos": 80 },
-    { "title": "Ionic", "amountOfVideos": 90 },
-    { "title": "PhoneGap", "amountOfVideos": 45 },
-    { "title": "Cordova", "amountOfVideos": 50 },
-    { "title": "NativeScript", "amountOfVideos": 65 },
-    { "title": "Swift", "amountOfVideos": 110 },
-    { "title": "Objective-C", "amountOfVideos": 95 },
-    { "title": "Kotlin", "amountOfVideos": 85 },
-    { "title": "Java", "amountOfVideos": 140 },
-    { "title": "Python", "amountOfVideos": 160 },
-    { "title": "JavaScript", "amountOfVideos": 180 },
-    { "title": "TypeScript", "amountOfVideos": 150 },
-    { "title": "Ruby", "amountOfVideos": 100 },
-    { "title": "PHP", "amountOfVideos": 120 },
-    { "title": "C#", "amountOfVideos": 130 },
-    { "title": "C++", "amountOfVideos": 110 },
-    { "title": "C", "amountOfVideos": 90 },
-    { "title": "SwiftUI", "amountOfVideos": 70 },
-    { "title": "React Native", "amountOfVideos": 120 },
-    { "title": "Flutter", "amountOfVideos": 100 },
-    { "title": "Xamarin", "amountOfVideos": 80 },
-    { "title": "Ionic", "amountOfVideos": 90 },
-    { "title": "PhoneGap", "amountOfVideos": 45 },
-    { "title": "Cordova", "amountOfVideos": 50 },
-    { "title": "NativeScript", "amountOfVideos": 65 },
-    { "title": "Swift", "amountOfVideos": 110 },
-    { "title": "Objective-C", "amountOfVideos": 95 },
-    { "title": "Kotlin", "amountOfVideos": 85 },
-    { "title": "Java", "amountOfVideos": 140 },
-    { "title": "Python", "amountOfVideos": 160 },
-    { "title": "JavaScript", "amountOfVideos": 180 },
-    { "title": "TypeScript", "amountOfVideos": 150 },
-    { "title": "Ruby", "amountOfVideos": 100 },
-    { "title": "PHP", "amountOfVideos": 120 },
-    { "title": "C#", "amountOfVideos": 130 },
-    { "title": "C++", "amountOfVideos": 110 },
-    { "title": "C", "amountOfVideos": 90 },
-    { "title": "SwiftUI", "amountOfVideos": 70 },
-    { "title": "React Native", "amountOfVideos": 120 },
-    { "title": "Flutter", "amountOfVideos": 100 },
-    { "title": "Xamarin", "amountOfVideos": 80 },
-    { "title": "Ionic", "amountOfVideos": 90 },
-    { "title": "PhoneGap", "amountOfVideos": 45 },
-    { "title": "Cordova", "amountOfVideos": 50 },
-    { "title": "NativeScript", "amountOfVideos": 65 },
-    { "title": "Swift", "amountOfVideos": 110 },
-    { "title": "Objective-C", "amountOfVideos": 95 },
-    { "title": "Kotlin", "amountOfVideos": 85 },
-    { "title": "Java", "amountOfVideos": 140 },
-    { "title": "Python", "amountOfVideos": 160 },
-    { "title": "JavaScript", "amountOfVideos": 180 },
-    { "title": "TypeScript", "amountOfVideos": 150 },
-    { "title": "Ruby", "amountOfVideos": 100 },
-    { "title": "PHP", "amountOfVideos": 120 },
-    { "title": "C#", "amountOfVideos": 130 },
-    { "title": "C++", "amountOfVideos": 110 },
-    { "title": "C", "amountOfVideos": 90 },
-    { "title": "SwiftUI", "amountOfVideos": 70 },
-    { "title": "React", "amountOfVideos": 142 },
-    { "title": "Angular", "amountOfVideos": 98 },
-    { "title": "Vue.js", "amountOfVideos": 120 },
-    { "title": "Node.js", "amountOfVideos": 165 },
-    { "title": "Express.js", "amountOfVideos": 88 },
-    { "title": "Django", "amountOfVideos": 75 },
-    { "title": "Flask", "amountOfVideos": 62 },
-    { "title": "Spring Boot", "amountOfVideos": 110 },
-    { "title": "Laravel", "amountOfVideos": 130 },
-    { "title": "Ruby on Rails", "amountOfVideos": 95 },
-    { "title": "ASP.NET", "amountOfVideos": 80 },
-    { "title": "Ember.js", "amountOfVideos": 50 },
-    { "title": "Meteor.js", "amountOfVideos": 70 },
-    { "title": "Svelte", "amountOfVideos": 45 },
-    { "title": "Backbone.js", "amountOfVideos": 30 },
-    { "title": "Polymer", "amountOfVideos": 55 },
-    { "title": "Aurelia", "amountOfVideos": 35 },
-    { "title": "jQuery", "amountOfVideos": 125 },
-    { "title": "Bootstrap", "amountOfVideos": 140 },
-    { "title": "Foundation", "amountOfVideos": 75 },
-    { "title": "Materialize", "amountOfVideos": 90 },
-    { "title": "Tailwind CSS", "amountOfVideos": 105 },
-    { "title": "Bulma", "amountOfVideos": 85 },
-    { "title": "Semantic UI", "amountOfVideos": 70 },
-    { "title": "UIKit", "amountOfVideos": 60 },
-    { "title": "Ant Design", "amountOfVideos": 55 },
-    { "title": "React Native", "amountOfVideos": 120 },
-    { "title": "Flutter", "amountOfVideos": 100 },
-    { "title": "Xamarin", "amountOfVideos": 80 },
-    { "title": "Ionic", "amountOfVideos": 90 },
-    { "title": "PhoneGap", "amountOfVideos": 45 },
-    { "title": "Cordova", "amountOfVideos": 50 },
-    { "title": "NativeScript", "amountOfVideos": 65 },
-    { "title": "Swift", "amountOfVideos": 110 },
-    { "title": "Objective-C", "amountOfVideos": 95 },
-    { "title": "Kotlin", "amountOfVideos": 85 },
-    { "title": "Java", "amountOfVideos": 140 },
-    { "title": "Python", "amountOfVideos": 160 },
-    { "title": "JavaScript", "amountOfVideos": 180 },
-    { "title": "TypeScript", "amountOfVideos": 150 },
-    { "title": "Ruby", "amountOfVideos": 100 },
-    { "title": "PHP", "amountOfVideos": 120 },
-    { "title": "C#", "amountOfVideos": 130 },
-    { "title": "C++", "amountOfVideos": 110 },
-    { "title": "C", "amountOfVideos": 90 },
-    { "title": "SwiftUI", "amountOfVideos": 70 },
-    { "title": "React Native", "amountOfVideos": 120 },
-    { "title": "Flutter", "amountOfVideos": 100 },
-    { "title": "Xamarin", "amountOfVideos": 80 },
-    { "title": "Ionic", "amountOfVideos": 90 },
-    { "title": "PhoneGap", "amountOfVideos": 45 },
-    { "title": "Cordova", "amountOfVideos": 50 },
-    { "title": "NativeScript", "amountOfVideos": 65 },
-    { "title": "Swift", "amountOfVideos": 110 },
-    { "title": "Objective-C", "amountOfVideos": 95 },
-    { "title": "Kotlin", "amountOfVideos": 85 },
-    { "title": "Java", "amountOfVideos": 140 },
-    { "title": "Python", "amountOfVideos": 160 },
-    { "title": "JavaScript", "amountOfVideos": 180 },
-    { "title": "TypeScript", "amountOfVideos": 150 },
-    { "title": "Ruby", "amountOfVideos": 100 },
-    { "title": "PHP", "amountOfVideos": 120 },
-    { "title": "C#", "amountOfVideos": 130 },
-    { "title": "C++", "amountOfVideos": 110 },
-    { "title": "C", "amountOfVideos": 90 },
-    { "title": "SwiftUI", "amountOfVideos": 70 },
-    { "title": "React Native", "amountOfVideos": 120 },
-    { "title": "Flutter", "amountOfVideos": 100 },
-    { "title": "Xamarin", "amountOfVideos": 80 },
-    { "title": "Ionic", "amountOfVideos": 90 },
-    { "title": "PhoneGap", "amountOfVideos": 45 },
-    { "title": "Cordova", "amountOfVideos": 50 },
-    { "title": "NativeScript", "amountOfVideos": 65 },
-    { "title": "Swift", "amountOfVideos": 110 },
-    { "title": "Objective-C", "amountOfVideos": 95 },
-    { "title": "Kotlin", "amountOfVideos": 85 },
-    { "title": "Java", "amountOfVideos": 140 },
-    { "title": "Python", "amountOfVideos": 160 },
-    { "title": "JavaScript", "amountOfVideos": 180 },
-    { "title": "TypeScript", "amountOfVideos": 150 },
-    { "title": "Ruby", "amountOfVideos": 100 },
-    { "title": "PHP", "amountOfVideos": 120 },
-    { "title": "C#", "amountOfVideos": 130 },
-    { "title": "C++", "amountOfVideos": 110 },
-    { "title": "C", "amountOfVideos": 90 },
-    { "title": "SwiftUI", "amountOfVideos": 70 },
-    { "title": "React", "amountOfVideos": 142 },
-    { "title": "Angular", "amountOfVideos": 98 },
-    { "title": "Vue.js", "amountOfVideos": 120 },
-    { "title": "Node.js", "amountOfVideos": 165 },
-    { "title": "Express.js", "amountOfVideos": 88 },
-    { "title": "Django", "amountOfVideos": 75 },
-    { "title": "Flask", "amountOfVideos": 62 },
-    { "title": "Spring Boot", "amountOfVideos": 110 },
-    { "title": "Laravel", "amountOfVideos": 130 },
-    { "title": "Ruby on Rails", "amountOfVideos": 95 },
-    { "title": "ASP.NET", "amountOfVideos": 80 },
-    { "title": "Ember.js", "amountOfVideos": 50 },
-    { "title": "Meteor.js", "amountOfVideos": 70 },
-    { "title": "Svelte", "amountOfVideos": 45 },
-    { "title": "Backbone.js", "amountOfVideos": 30 },
-    { "title": "Polymer", "amountOfVideos": 55 },
-    { "title": "Aurelia", "amountOfVideos": 35 },
-    { "title": "jQuery", "amountOfVideos": 125 },
-    { "title": "Bootstrap", "amountOfVideos": 140 },
-    { "title": "Foundation", "amountOfVideos": 75 },
-    { "title": "Materialize", "amountOfVideos": 90 },
-    { "title": "Tailwind CSS", "amountOfVideos": 105 },
-    { "title": "Bulma", "amountOfVideos": 85 },
-    { "title": "Semantic UI", "amountOfVideos": 70 },
-    { "title": "UIKit", "amountOfVideos": 60 },
-    { "title": "Ant Design", "amountOfVideos": 55 },
-    { "title": "React Native", "amountOfVideos": 120 },
-    { "title": "Flutter", "amountOfVideos": 100 },
-    { "title": "Xamarin", "amountOfVideos": 80 }
+    {
+      "title": "React",
+      "slug": "old",
+      "amountOfVideos": 142
+    },
+    {
+      "title": "Angular",
+      "slug": "old",
+      "amountOfVideos": 98
+    },
+    {
+      "title": "Vue.js",
+      "slug": "old",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "Node.js",
+      "slug": "old",
+      "amountOfVideos": 165
+    },
+    {
+      "title": "Express.js",
+      "slug": "old",
+      "amountOfVideos": 88
+    },
+    {
+      "title": "Django",
+      "slug": "old",
+      "amountOfVideos": 75
+    },
+    {
+      "title": "Flask",
+      "slug": "old",
+      "amountOfVideos": 62
+    },
+    {
+      "title": "Spring Boot",
+      "slug": "old",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "Laravel",
+      "slug": "old",
+      "amountOfVideos": 130
+    },
+    {
+      "title": "Ruby on Rails",
+      "slug": "old",
+      "amountOfVideos": 95
+    },
+    {
+      "title": "ASP.NET",
+      "slug": "old",
+      "amountOfVideos": 80
+    },
+    {
+      "title": "Ember.js",
+      "slug": "old",
+      "amountOfVideos": 50
+    },
+    {
+      "title": "Meteor.js",
+      "slug": "old",
+      "amountOfVideos": 70
+    },
+    {
+      "title": "Svelte",
+      "slug": "old",
+      "amountOfVideos": 45
+    },
+    {
+      "title": "Backbone.js",
+      "slug": "old",
+      "amountOfVideos": 30
+    },
+    {
+      "title": "Polymer",
+      "slug": "old",
+      "amountOfVideos": 55
+    },
+    {
+      "title": "Aurelia",
+      "slug": "old",
+      "amountOfVideos": 35
+    },
+    {
+      "title": "jQuery",
+      "slug": "old",
+      "amountOfVideos": 125
+    },
+    {
+      "title": "Bootstrap",
+      "slug": "old",
+      "amountOfVideos": 140
+    },
+    {
+      "title": "Foundation",
+      "slug": "old",
+      "amountOfVideos": 75
+    },
+    {
+      "title": "Materialize",
+      "slug": "old",
+      "amountOfVideos": 90
+    },
+    {
+      "title": "Tailwind CSS",
+      "slug": "old",
+      "amountOfVideos": 105
+    },
+    {
+      "title": "Bulma",
+      "slug": "old",
+      "amountOfVideos": 85
+    },
+    {
+      "title": "Semantic UI",
+      "slug": "old",
+      "amountOfVideos": 70
+    },
+    {
+      "title": "UIKit",
+      "slug": "old",
+      "amountOfVideos": 60
+    },
+    {
+      "title": "Ant Design",
+      "slug": "old",
+      "amountOfVideos": 55
+    },
+    {
+      "title": "React Native",
+      "slug": "old",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "Flutter",
+      "slug": "old",
+      "amountOfVideos": 100
+    },
+    {
+      "title": "Xamarin",
+      "slug": "old",
+      "amountOfVideos": 80
+    },
+    {
+      "title": "Ionic",
+      "slug": "old",
+      "amountOfVideos": 90
+    },
+    {
+      "title": "PhoneGap",
+      "slug": "old",
+      "amountOfVideos": 45
+    },
+    {
+      "title": "Cordova",
+      "slug": "old",
+      "amountOfVideos": 50
+    },
+    {
+      "title": "NativeScript",
+      "slug": "old",
+      "amountOfVideos": 65
+    },
+    {
+      "title": "Swift",
+      "slug": "old",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "Objective-C",
+      "slug": "old",
+      "amountOfVideos": 95
+    },
+    {
+      "title": "Kotlin",
+      "slug": "old",
+      "amountOfVideos": 85
+    },
+    {
+      "title": "Java",
+      "slug": "old",
+      "amountOfVideos": 140
+    },
+    {
+      "title": "Python",
+      "slug": "old",
+      "amountOfVideos": 160
+    },
+    {
+      "title": "JavaScript",
+      "slug": "old",
+      "amountOfVideos": 180
+    },
+    {
+      "title": "TypeScript",
+      "slug": "old",
+      "amountOfVideos": 150
+    },
+    {
+      "title": "Ruby",
+      "slug": "old",
+      "amountOfVideos": 100
+    },
+    {
+      "title": "PHP",
+      "slug": "old",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "C#",
+      "slug": "old",
+      "amountOfVideos": 130
+    },
+    {
+      "title": "C++",
+      "slug": "old",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "C",
+      "slug": "old",
+      "amountOfVideos": 90
+    },
+    {
+      "title": "SwiftUI",
+      "slug": "old",
+      "amountOfVideos": 70
+    },
+    {
+      "title": "React Native",
+      "slug": "old",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "Flutter",
+      "slug": "old",
+      "amountOfVideos": 100
+    },
+    {
+      "title": "Xamarin",
+      "slug": "old",
+      "amountOfVideos": 80
+    },
+    {
+      "title": "Ionic",
+      "slug": "old",
+      "amountOfVideos": 90
+    },
+    {
+      "title": "PhoneGap",
+      "slug": "old",
+      "amountOfVideos": 45
+    },
+    {
+      "title": "Cordova",
+      "slug": "old",
+      "amountOfVideos": 50
+    },
+    {
+      "title": "NativeScript",
+      "slug": "old",
+      "amountOfVideos": 65
+    },
+    {
+      "title": "Swift",
+      "slug": "old",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "Objective-C",
+      "slug": "old",
+      "amountOfVideos": 95
+    },
+    {
+      "title": "Kotlin",
+      "slug": "old",
+      "amountOfVideos": 85
+    },
+    {
+      "title": "Java",
+      "slug": "old",
+      "amountOfVideos": 140
+    },
+    {
+      "title": "Python",
+      "slug": "old",
+      "amountOfVideos": 160
+    },
+    {
+      "title": "JavaScript",
+      "slug": "old",
+      "amountOfVideos": 180
+    },
+    {
+      "title": "TypeScript",
+      "slug": "old",
+      "amountOfVideos": 150
+    },
+    {
+      "title": "Ruby",
+      "slug": "old",
+      "amountOfVideos": 100
+    },
+    {
+      "title": "PHP",
+      "slug": "old",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "C#",
+      "slug": "old",
+      "amountOfVideos": 130
+    },
+    {
+      "title": "C++",
+      "slug": "old",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "C",
+      "slug": "old",
+      "amountOfVideos": 90
+    },
+    {
+      "title": "SwiftUI",
+      "slug": "old",
+      "amountOfVideos": 70
+    },
+    {
+      "title": "React Native",
+      "slug": "old",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "Flutter",
+      "slug": "old",
+      "amountOfVideos": 100
+    },
+    {
+      "title": "Xamarin",
+      "slug": "old",
+      "amountOfVideos": 80
+    },
+    {
+      "title": "Ionic",
+      "slug": "old",
+      "amountOfVideos": 90
+    },
+    {
+      "title": "PhoneGap",
+      "slug": "old",
+      "amountOfVideos": 45
+    },
+    {
+      "title": "Cordova",
+      "slug": "old",
+      "amountOfVideos": 50
+    },
+    {
+      "title": "NativeScript",
+      "slug": "old",
+      "amountOfVideos": 65
+    },
+    {
+      "title": "Swift",
+      "slug": "old",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "Objective-C",
+      "slug": "old",
+      "amountOfVideos": 95
+    },
+    {
+      "title": "Kotlin",
+      "slug": "old",
+      "amountOfVideos": 85
+    },
+    {
+      "title": "Java",
+      "slug": "old",
+      "amountOfVideos": 140
+    },
+    {
+      "title": "Python",
+      "slug": "old",
+      "amountOfVideos": 160
+    },
+    {
+      "title": "JavaScript",
+      "slug": "old",
+      "amountOfVideos": 180
+    },
+    {
+      "title": "TypeScript",
+      "slug": "old",
+      "amountOfVideos": 150
+    },
+    {
+      "title": "Ruby",
+      "slug": "old",
+      "amountOfVideos": 100
+    },
+    {
+      "title": "PHP",
+      "slug": "old",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "C#",
+      "slug": "old",
+      "amountOfVideos": 130
+    },
+    {
+      "title": "C++",
+      "slug": "old",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "C",
+      "slug": "old",
+      "amountOfVideos": 90
+    },
+    {
+      "title": "SwiftUI",
+      "slug": "old",
+      "amountOfVideos": 70
+    },
+    {
+      "title": "React",
+      "slug": "old",
+      "amountOfVideos": 142
+    },
+    {
+      "title": "Angular",
+      "slug": "old",
+      "amountOfVideos": 98
+    },
+    {
+      "title": "Vue.js",
+      "slug": "old",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "Node.js",
+      "slug": "old",
+      "amountOfVideos": 165
+    },
+    {
+      "title": "Express.js",
+      "slug": "old",
+      "amountOfVideos": 88
+    },
+    {
+      "title": "Django",
+      "slug": "old",
+      "amountOfVideos": 75
+    },
+    {
+      "title": "Flask",
+      "slug": "old",
+      "amountOfVideos": 62
+    },
+    {
+      "title": "Spring Boot",
+      "slug": "old",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "Laravel",
+      "slug": "old",
+      "amountOfVideos": 130
+    },
+    {
+      "title": "Ruby on Rails",
+      "slug": "old",
+      "amountOfVideos": 95
+    },
+    {
+      "title": "ASP.NET",
+      "slug": "old",
+      "amountOfVideos": 80
+    },
+    {
+      "title": "Ember.js",
+      "slug": "old",
+      "amountOfVideos": 50
+    },
+    {
+      "title": "Meteor.js",
+      "slug": "old",
+      "amountOfVideos": 70
+    },
+    {
+      "title": "Svelte",
+      "slug": "old",
+      "amountOfVideos": 45
+    },
+    {
+      "title": "Backbone.js",
+      "slug": "old",
+      "amountOfVideos": 30
+    },
+    {
+      "title": "Polymer",
+      "slug": "old",
+      "amountOfVideos": 55
+    },
+    {
+      "title": "Aurelia",
+      "slug": "old",
+      "amountOfVideos": 35
+    },
+    {
+      "title": "jQuery",
+      "slug": "old",
+      "amountOfVideos": 125
+    },
+    {
+      "title": "Bootstrap",
+      "slug": "old",
+      "amountOfVideos": 140
+    },
+    {
+      "title": "Foundation",
+      "slug": "old",
+      "amountOfVideos": 75
+    },
+    {
+      "title": "Materialize",
+      "slug": "old",
+      "amountOfVideos": 90
+    },
+    {
+      "title": "Tailwind CSS",
+      "slug": "old",
+      "amountOfVideos": 105
+    },
+    {
+      "title": "Bulma",
+      "slug": "old",
+      "amountOfVideos": 85
+    },
+    {
+      "title": "Semantic UI",
+      "slug": "old",
+      "amountOfVideos": 70
+    },
+    {
+      "title": "UIKit",
+      "slug": "old",
+      "amountOfVideos": 60
+    },
+    {
+      "title": "Ant Design",
+      "slug": "old",
+      "amountOfVideos": 55
+    },
+    {
+      "title": "React Native",
+      "slug": "old",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "Flutter",
+      "slug": "old",
+      "amountOfVideos": 100
+    },
+    {
+      "title": "Xamarin",
+      "slug": "old",
+      "amountOfVideos": 80
+    },
+    {
+      "title": "Ionic",
+      "slug": "old",
+      "amountOfVideos": 90
+    },
+    {
+      "title": "PhoneGap",
+      "slug": "old",
+      "amountOfVideos": 45
+    },
+    {
+      "title": "Cordova",
+      "slug": "old",
+      "amountOfVideos": 50
+    },
+    {
+      "title": "NativeScript",
+      "slug": "old",
+      "amountOfVideos": 65
+    },
+    {
+      "title": "Swift",
+      "slug": "old",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "Objective-C",
+      "slug": "old",
+      "amountOfVideos": 95
+    },
+    {
+      "title": "Kotlin",
+      "slug": "old",
+      "amountOfVideos": 85
+    },
+    {
+      "title": "Java",
+      "slug": "old",
+      "amountOfVideos": 140
+    },
+    {
+      "title": "Python",
+      "slug": "old",
+      "amountOfVideos": 160
+    },
+    {
+      "title": "JavaScript",
+      "slug": "old",
+      "amountOfVideos": 180
+    },
+    {
+      "title": "TypeScript",
+      "slug": "old",
+      "amountOfVideos": 150
+    },
+    {
+      "title": "Ruby",
+      "slug": "old",
+      "amountOfVideos": 100
+    },
+    {
+      "title": "PHP",
+      "slug": "old",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "C#",
+      "slug": "old",
+      "amountOfVideos": 130
+    },
+    {
+      "title": "C++",
+      "slug": "old",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "C",
+      "slug": "old",
+      "amountOfVideos": 90
+    },
+    {
+      "title": "SwiftUI",
+      "slug": "old",
+      "amountOfVideos": 70
+    },
+    {
+      "title": "React Native",
+      "slug": "old",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "Flutter",
+      "slug": "old",
+      "amountOfVideos": 100
+    },
+    {
+      "title": "Xamarin",
+      "slug": "old",
+      "amountOfVideos": 80
+    },
+    {
+      "title": "Ionic",
+      "slug": "old",
+      "amountOfVideos": 90
+    },
+    {
+      "title": "PhoneGap",
+      "slug": "old",
+      "amountOfVideos": 45
+    },
+    {
+      "title": "Cordova",
+      "slug": "old",
+      "amountOfVideos": 50
+    },
+    {
+      "title": "NativeScript",
+      "slug": "old",
+      "amountOfVideos": 65
+    },
+    {
+      "title": "Swift",
+      "slug": "old",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "Objective-C",
+      "slug": "old",
+      "amountOfVideos": 95
+    },
+    {
+      "title": "Kotlin",
+      "slug": "old",
+      "amountOfVideos": 85
+    },
+    {
+      "title": "Java",
+      "slug": "old",
+      "amountOfVideos": 140
+    },
+    {
+      "title": "Python",
+      "slug": "old",
+      "amountOfVideos": 160
+    },
+    {
+      "title": "JavaScript",
+      "slug": "old",
+      "amountOfVideos": 180
+    },
+    {
+      "title": "TypeScript",
+      "slug": "old",
+      "amountOfVideos": 150
+    },
+    {
+      "title": "Ruby",
+      "slug": "old",
+      "amountOfVideos": 100
+    },
+    {
+      "title": "PHP",
+      "slug": "old",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "C#",
+      "slug": "old",
+      "amountOfVideos": 130
+    },
+    {
+      "title": "C++",
+      "slug": "old",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "C",
+      "slug": "old",
+      "amountOfVideos": 90
+    },
+    {
+      "title": "SwiftUI",
+      "slug": "old",
+      "amountOfVideos": 70
+    },
+    {
+      "title": "React Native",
+      "slug": "old",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "Flutter",
+      "slug": "old",
+      "amountOfVideos": 100
+    },
+    {
+      "title": "Xamarin",
+      "slug": "old",
+      "amountOfVideos": 80
+    },
+    {
+      "title": "Ionic",
+      "slug": "old",
+      "amountOfVideos": 90
+    },
+    {
+      "title": "PhoneGap",
+      "slug": "old",
+      "amountOfVideos": 45
+    },
+    {
+      "title": "Cordova",
+      "slug": "old",
+      "amountOfVideos": 50
+    },
+    {
+      "title": "NativeScript",
+      "slug": "old",
+      "amountOfVideos": 65
+    },
+    {
+      "title": "Swift",
+      "slug": "old",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "Objective-C",
+      "slug": "old",
+      "amountOfVideos": 95
+    },
+    {
+      "title": "Kotlin",
+      "slug": "old",
+      "amountOfVideos": 85
+    },
+    {
+      "title": "Java",
+      "slug": "old",
+      "amountOfVideos": 140
+    },
+    {
+      "title": "Python",
+      "slug": "old",
+      "amountOfVideos": 160
+    },
+    {
+      "title": "JavaScript",
+      "slug": "old",
+      "amountOfVideos": 180
+    },
+    {
+      "title": "TypeScript",
+      "slug": "old",
+      "amountOfVideos": 150
+    },
+    {
+      "title": "Ruby",
+      "slug": "old",
+      "amountOfVideos": 100
+    },
+    {
+      "title": "PHP",
+      "slug": "old",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "C#",
+      "slug": "old",
+      "amountOfVideos": 130
+    },
+    {
+      "title": "C++",
+      "slug": "old",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "C",
+      "slug": "old",
+      "amountOfVideos": 90
+    },
+    {
+      "title": "SwiftUI",
+      "slug": "old",
+      "amountOfVideos": 70
+    },
+    {
+      "title": "React",
+      "slug": "old",
+      "amountOfVideos": 142
+    },
+    {
+      "title": "Angular",
+      "slug": "old",
+      "amountOfVideos": 98
+    },
+    {
+      "title": "Vue.js",
+      "slug": "old",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "Node.js",
+      "slug": "old",
+      "amountOfVideos": 165
+    },
+    {
+      "title": "Express.js",
+      "slug": "old",
+      "amountOfVideos": 88
+    },
+    {
+      "title": "Django",
+      "slug": "old",
+      "amountOfVideos": 75
+    },
+    {
+      "title": "Flask",
+      "slug": "old",
+      "amountOfVideos": 62
+    },
+    {
+      "title": "Spring Boot",
+      "slug": "old",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "Laravel",
+      "slug": "old",
+      "amountOfVideos": 130
+    },
+    {
+      "title": "Ruby on Rails",
+      "slug": "old",
+      "amountOfVideos": 95
+    },
+    {
+      "title": "ASP.NET",
+      "slug": "old",
+      "amountOfVideos": 80
+    },
+    {
+      "title": "Ember.js",
+      "slug": "old",
+      "amountOfVideos": 50
+    },
+    {
+      "title": "Meteor.js",
+      "slug": "old",
+      "amountOfVideos": 70
+    },
+    {
+      "title": "Svelte",
+      "slug": "old",
+      "amountOfVideos": 45
+    },
+    {
+      "title": "Backbone.js",
+      "slug": "old",
+      "amountOfVideos": 30
+    },
+    {
+      "title": "Polymer",
+      "slug": "old",
+      "amountOfVideos": 55
+    },
+    {
+      "title": "Aurelia",
+      "slug": "old",
+      "amountOfVideos": 35
+    },
+    {
+      "title": "jQuery",
+      "slug": "old",
+      "amountOfVideos": 125
+    },
+    {
+      "title": "Bootstrap",
+      "slug": "old",
+      "amountOfVideos": 140
+    },
+    {
+      "title": "Foundation",
+      "slug": "old",
+      "amountOfVideos": 75
+    },
+    {
+      "title": "Materialize",
+      "slug": "old",
+      "amountOfVideos": 90
+    },
+    {
+      "title": "Tailwind CSS",
+      "slug": "old",
+      "amountOfVideos": 105
+    },
+    {
+      "title": "Bulma",
+      "slug": "old",
+      "amountOfVideos": 85
+    },
+    {
+      "title": "Semantic UI",
+      "slug": "old",
+      "amountOfVideos": 70
+    },
+    {
+      "title": "UIKit",
+      "slug": "old",
+      "amountOfVideos": 60
+    },
+    {
+      "title": "Ant Design",
+      "slug": "old",
+      "amountOfVideos": 55
+    },
+    {
+      "title": "React Native",
+      "slug": "old",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "Flutter",
+      "slug": "old",
+      "amountOfVideos": 100
+    },
+    {
+      "title": "Xamarin",
+      "slug": "old",
+      "amountOfVideos": 80
+    }
   ]
 }
