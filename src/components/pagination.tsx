@@ -58,9 +58,13 @@ export function Pagination({ items, page, pages }: PaginationProps) {
     });
   }
 
+  const lastPageItems = items % 10 || 10;
+
   return (
     <div className="flex text-sm items-center justify-between text-zinc-500">
-      <span>Showing 10 of {items} items</span>
+      <span>
+        Showing {page === pages ? lastPageItems : 10} of {items} items
+      </span>
       <div className="flex items-center gap-8">
         <div className="flex items-center gap-2">
           <span>Rows per page</span>
