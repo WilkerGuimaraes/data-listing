@@ -2,13 +2,13 @@
 
 ![home_page](https://imgur.com/6jG8u4U.png)
 
-## Create new data
+## Criando novos dados
 
-![dialog_box](https://imgur.com/XTO7FtC.png)
+https://github.com/WilkerGuimaraes/data-listing/assets/141461291/6c1a8a9e-3a55-4502-b754-b1a2167fadb1
 
-## Created data
+## Filtrando dados
 
-![add_toll](https://imgur.com/8U2kaAP.png)
+https://github.com/WilkerGuimaraes/data-listing/assets/141461291/dcd5283b-202c-48f4-a9da-22d7d9f9193a
 
 # Listagem de dados
 
@@ -29,6 +29,8 @@ Esta é um projeto front-end no qual foi desenvolvido uma página web de listage
 Este projeto aborda os conceitos do `react-query` para gerenciar automaticamente o cache de dados no navegador. Ou seja, quando o usuário avança entre as páginas os dados são salvos em cache permitindo assim uma melhor experiência do usuário. Pois quando o usuário retorna para as páginas aos quais ele já tenha carregado anteriormente, os dados daquela página são atualizados instantaneamente.
 
 Para compreender isso, este projeto possui um delay de 2 segundos para que o estado de uma página ao qual o usuário nunca tenha acessado antes seja carregada. Para que quando retornar à página anterior seja possível ver a mudança imediata do estado da lista.
+
+https://github.com/WilkerGuimaraes/data-listing/assets/141461291/ff75112b-baac-4c03-b5eb-0a317235cd37
 
 ## 🧰 Recursos
 
