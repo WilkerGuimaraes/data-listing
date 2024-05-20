@@ -14,7 +14,7 @@ https://github.com/WilkerGuimaraes/data-listing/assets/141461291/dcd5283b-202c-4
 
 ## 📃 Descrição
 
-Esta é um projeto front-end no qual foi desenvolvido uma página web de listagem de dados. Que oferece um sistema de paginação, criação de um novo dado através de um formulário e filtragem de dados por tags através de uma caixa de diálogo.
+Este é um projeto front-end no qual foi desenvolvido uma página web de listagem de dados, aplicando as mais diversas funcionalidades, como: sistema de paginação, criação de um novo dado através de um formulário e filtragem de dados por tags através de uma caixa de diálogo.
 
 ## 🛠 Tecnologias
 
